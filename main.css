@@ -1,0 +1,15 @@
+table  {
+	text-align: center;
+    width: 30%;
+}
+
+#rh {
+	background: lightblue;
+}
+#rb {
+	background: lightgreen;
+}
+
+.c1 {
+	background: yellow;
+}
